@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dc60d9d-2836-4e9f-bdc7-41e6c3c03019" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,28 +18,27 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="1640" column="7" lean-forward="false" selection-start-line="1640" selection-start-column="7" selection-end-line="1640" selection-end-column="7" />
+            <state relative-caret-position="229">
+              <caret line="483" column="37" lean-forward="false" selection-start-line="483" selection-start-column="37" selection-end-line="483" selection-end-column="37" />
               <folding>
-                <element signature="e#949#1263#2" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#31647#31961#2" expanded="true" />
-                <element signature="e#53047#53052#0" expanded="true" />
-                <element signature="e#53696#53701#0" expanded="true" />
-                <element signature="e#55654#55659#0" expanded="true" />
-                <element signature="e#56462#56467#0" expanded="true" />
-                <element signature="e#56829#56834#0" expanded="true" />
-                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#1425#1739#2" expanded="true" />
+                <element signature="e#20060#20065#0" expanded="true" />
+                <element signature="e#20630#20635#0" expanded="true" />
+                <element signature="e#22253#22258#0" expanded="true" />
+                <element signature="e#23114#23119#0" expanded="true" />
+                <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jinoj</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -162,22 +162,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="1640" column="7" lean-forward="false" selection-start-line="1640" selection-start-column="7" selection-end-line="1640" selection-end-column="7" />
+        <state relative-caret-position="229">
+          <caret line="483" column="37" lean-forward="false" selection-start-line="483" selection-start-column="37" selection-end-line="483" selection-end-column="37" />
           <folding>
-            <element signature="e#949#1263#2" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#31647#31961#2" expanded="true" />
-            <element signature="e#53047#53052#0" expanded="true" />
-            <element signature="e#53696#53701#0" expanded="true" />
-            <element signature="e#55654#55659#0" expanded="true" />
-            <element signature="e#56462#56467#0" expanded="true" />
-            <element signature="e#56829#56834#0" expanded="true" />
-            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#1425#1739#2" expanded="true" />
+            <element signature="e#20060#20065#0" expanded="true" />
+            <element signature="e#20630#20635#0" expanded="true" />
+            <element signature="e#22253#22258#0" expanded="true" />
+            <element signature="e#23114#23119#0" expanded="true" />
+            <element signature="n#style#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
